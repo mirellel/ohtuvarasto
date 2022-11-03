@@ -2,5 +2,6 @@ __pycache__
 .tmp
 .pytest_cache
 .coveragerc
+.coverage
 htmlcov
 
